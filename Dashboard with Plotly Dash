@@ -1,3 +1,4 @@
+# Python code for building interactive dashboard with Plotly Dash in Skills Network Lab
 # import the following libraries
 import pandas as pd
 import dash
